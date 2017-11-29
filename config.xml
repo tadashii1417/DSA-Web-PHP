@@ -1,0 +1,6 @@
+<config>
+  <timeout>1000</timeout>
+  <upload_folder>Uploaded</upload_folder>
+  <output_folder>output</output_folder>
+  <epsilon>1e-6</epsilon>
+</config>
