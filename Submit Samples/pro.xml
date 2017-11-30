@@ -1,0 +1,7 @@
+<project>
+  <time>30-11-2017 22:10:11</time>
+  <time_format>%d-%m-%Y %H:%M:%S</time_format>
+  <header>add.h</header>
+  <cpp>add.cpp</cpp>
+  <cpp>main1.cpp</cpp>
+</project>
